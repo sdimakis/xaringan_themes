@@ -1,0 +1,55 @@
+.remark-slide-content{
+  border: 5px solid black;
+
+}
+
+.remark-slide-content > h1 {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  padding-left: 5px;
+  border-bottom: 2px solid black;
+
+}
+
+.remark-slide body {
+  font-size: 20px;
+}
+
+.remark-slide-number {
+  font-size: 25px;
+  color: #457c95;
+  font-weight: 500;
+}
+
+
+.title-slide {
+  background-image: url(https://raw.githubusercontent.com/sdimakis/xaringan_themes/master/art/dario-glionna.jpg);
+  background-size: cover;
+  border: 5px solid black;
+}
+
+.title-slide h1 {
+  font-size: 80px;
+  color: white;
+  text-shadow: 5px 0 0 #000, 0 -5px 0 #000, 0 5px 0 #000, -5px 0 0 #000;
+  margin-top: 350px;
+  border: none;
+  text-align: right;
+
+}
+
+.title-slide h2 {
+  font-size: 50px;
+  font-weight: 500;
+  color: black;
+  margin-top: 0px;
+  text-align:right;
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+a {
+    color: #a8b1bd;
+}
