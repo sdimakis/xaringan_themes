@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300&family=Caveat+Brush&family=Flavors&family=Fredericka+the+Great&family=Leckerli+One&family=Sigmar+One&family=Zilla+Slab+Highlight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chela+One&display=swap');
 
-h1{font-family: 'Leckerli One', cursive;}
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
+
+
+h1{font-family: 'Love Ya Like A Sister', cursive;}
 h2{font-family: 'Averia Serif Libre', cursive;}
 body {font-family: 'Averia Serif Libre', cursive;}
 
-
-font-family: 'Fredericka the Great', cursive;
-font-family: 'Leckerli One', cursive;
-font-family: 'Sigmar One', cursive;
-font-family: 'Zilla Slab Highlight', cursive;

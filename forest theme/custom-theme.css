@@ -53,3 +53,25 @@
 a {
     color: #a8b1bd;
 }
+
+blockquote {
+  border-left: solid 5px lightgray;
+  padding-left: 1em;
+}
+
+.footnote {
+  position: absolute;
+  bottom: 3em;
+  padding-right: 4em;
+  font-size: 90%;
+}
+
+.remark-slide-number {
+  font-size: .8em;
+  background-color: #8ba9b2;
+  color: white;
+  padding: 10px;
+  margin-right: -14px;
+  margin-bottom: 10px;
+  opacity: 1;
+}
