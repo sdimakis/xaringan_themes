@@ -1,0 +1,95 @@
+.remark-slide-content{
+}
+
+.remark-slide h1{
+  border-bottom: 2px solid black;
+
+}
+
+.remark-slide body {
+  font-size: 20px;
+}
+
+.remark-slide-number {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+
+.title-slide {
+  background-image: url(https://raw.githubusercontent.com/sdimakis/xaringan_themes/master/art/felipe-correia.jpg);
+  background-size: 90%;
+}
+
+.title-slide body{
+
+}
+
+.title-slide h1 {
+  font-size: 50px;
+  color: white;
+  border-top: 5px dashed black;
+  border-left: 5px dashed black;
+  border-right: 5px dashed black;
+  border-bottom: none;
+  background-color: rgba(0,0,0, 0.4);
+  width: 50%;
+  padding: 30px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  margin-left: 25%;
+
+
+}
+
+
+.title-slide h2 {
+  font-size: 40px;
+  font-weight: 500;
+  color: #f5bd06;
+  background-color: rgba(0,0,0, 0.4);
+  width: 50%;
+  margin-top: 0px;
+  padding-top: 0px;
+  padding: 30px;
+  margin-left: 25%;
+  border-bottom: 5px dashed black;
+  border-left: 5px dashed black;
+  border-right: 5px dashed black;
+
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+a {
+    color: #a8b1bd;
+}
+
+blockquote {
+  border-left: solid 5px lightgray;
+  padding-left: 1em;
+}
+
+.footnote {
+  position: absolute;
+  bottom: 3em;
+  padding-right: 4em;
+  font-size: 90%;
+}
+
+.remark-slide-number {
+  font-size: .8em;
+  background-color: #d24753;
+  color: white;
+  padding: 10px;
+  margin-right: -14px;
+  margin-bottom: 10px;
+  opacity: 1;
+}
+
+.special{
+  background: white;
+  border-radius: 10px;
+}

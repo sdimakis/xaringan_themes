@@ -1,0 +1,98 @@
+.remark-slide-content{
+  border-top: 10px solid #1781e7;
+  border-bottom: 10px solid #f5bd06;
+  border-left: 10px solid #58c381;
+  border-right: 10px solid #d24753;
+  color: #58c381;
+}
+
+.remark-slide h1{
+  color: #1781e7;
+  border-bottom: 2px solid #1781e7;
+
+}
+
+
+.remark-slide body {
+  font-size: 20px;
+}
+
+.remark-slide-number {
+  font-size: 25px;
+  color: #457c95;
+  font-weight: 500;
+}
+
+
+.title-slide {
+  background-image: url(https://raw.githubusercontent.com/sdimakis/xaringan_themes/master/art/volodymyr-hryshchenko.jpg);
+  background-position: right;
+  background-size: 95%;
+
+}
+
+.title-slide body{
+
+}
+
+.title-slide h1 {
+  font-size: 65px;
+  color: #1781e7;
+  border: none;
+  margin-right: 300px;
+  padding-right: 50px;
+  margin-bottom: 0px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+
+.title-slide h2 {
+  font-size: 40px;
+  font-weight: 500;
+  color: #f5bd06;
+  margin-top: 0px;
+  text-align: right;
+  margin-right: 300px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+
+
+
+
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+a {
+    color: #a8b1bd;
+}
+
+blockquote {
+  border-left: solid 5px lightgray;
+  padding-left: 1em;
+}
+
+.footnote {
+  position: absolute;
+  bottom: 3em;
+  padding-right: 4em;
+  font-size: 90%;
+}
+
+.remark-slide-number {
+  font-size: .8em;
+  background-color: #d24753;
+  color: white;
+  padding: 10px;
+  margin-right: -14px;
+  margin-bottom: 10px;
+  opacity: 1;
+}
+
+.special{
+  background: white;
+  border-radius: 10px;
+}

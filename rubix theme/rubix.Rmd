@@ -1,0 +1,21 @@
+---
+title: "Rubix cube theme"
+subtitle: "with xaringan"
+output:
+  xaringan::moon_reader:
+    css: [custom.css, custom-theme.css, fonts.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# First slide
+
+- Bullet point 
+
+- Bullet point
+
+- Bullet point
+
